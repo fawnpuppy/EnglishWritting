@@ -19,3 +19,5 @@
   注意虽然通常要求第二段是三段中写得最充实的，但是长度也就是5~6句话，不宜更多。
 
 + 第三段标准的写法是“怎么做”：具体的做法不一定需要很详细或者很有新意（内容或者表述有新意的放在前面自然会加分），写够2点即可。最常见的做法是“增强意识”，对于培养品质如：whatever situation we are confronted with, we should bear in mind that those with the spirit of ... are nearer to success。最后一句呼吁，It is high time或者every one of us should都可以，同时注意强调”如是做的好处“。如果有比较好的谚语或者俗语，写在最后就是点睛之笔。
+
+  第二段如果写的比较充实，而第三段时间又比较紧张的时候，也可以考虑将第三段作为总结段，此时注意用`to sum up`，`to recap`这样的标志性表述开头，如果有比较好的谚语同样可以加上，但是不用强求。
